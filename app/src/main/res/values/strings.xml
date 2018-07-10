@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">ReceviceCardAnimation</string>
+    <string name="txt_teacher_tag">Teacher</string>
+    <string name="base64_key">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAg0RVXD/RfbD8JG4O1M6DjkG6o5SDqpnDP1NAKlr0U4JMpiC0uMVwScJyeZLqQ4kbWaVIcOrG2cX+u9PgDIkpO9Iu9h+QrBSUzdeM4ZD88jJ8R/B4sATtgo94/d2Cdnf2B+782NE9+KDcriOtDHQhmGqRVvQOm0uSH5ZJs6rFeiRTbj69UCSgX+SyN2HkmgyRhIz0VfFMW4HBMpj/xiSGDjUM+AyYc1y9cEzpZirAbwb2pfYLF6HjIZZVUCnytGMYf/q4zehUkDV8HS5w+FtKpsPsvhnCamKPJ0cKyVBJcDBQKwbawh5qt0+EYIzRug3Xkpo5Y4iSmC2AhvVBGw9/pwIDAQAB</string>
+    <string name="msg_request_error_try_again">Error ! Try again.</string>
 </resources>
